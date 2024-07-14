@@ -1,0 +1,14 @@
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\bin\Debug\net7.0\ControlWork.exe
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\bin\Debug\net7.0\ControlWork.deps.json
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\bin\Debug\net7.0\ControlWork.runtimeconfig.json
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\bin\Debug\net7.0\ControlWork.dll
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\bin\Debug\net7.0\ControlWork.pdb
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\ControlWork.AssemblyInfoInputs.cache
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\ControlWork.AssemblyInfo.cs
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\ControlWork.csproj.CoreCompileInputs.cache
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\ControlWork.dll
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\refint\ControlWork.dll
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\ControlWork.pdb
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\ControlWork.genruntimeconfig.cache
+D:\GeekBrains\2024 год_лекции\Итоговая контрольная работа по основному блоку\ControlWork\obj\Debug\net7.0\ref\ControlWork.dll
